@@ -1,5 +1,9 @@
 ## Introduction
 In is the project, we implement the raft algorithm on the blockchain to solve the consensus problem.
+
+### Presentation
+https://youtu.be/yIq4DgYC4QI
+
 ## Requirements
 - Java 11 
 - Maven 3.6.0
